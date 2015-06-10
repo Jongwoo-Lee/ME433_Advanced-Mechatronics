@@ -286,7 +286,7 @@ public class SerialConsoleActivity extends Activity implements TextureView.Surfa
             int COM;
             //watch out for divide by 0
             if (wbTotal<=0) {
-                COM = bmp.getWidth()/2;
+                COM = 1000;
             }
             else {
                 COM = wbCOM/wbTotal;
