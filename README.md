@@ -2,6 +2,8 @@
 
 In this course I learned how to design, solder and debug a printed circuit board (PCB), learn advanced digital communication protocols like SPI, I2C and USB, create physical prototypes with a laser cutter and 3d printer, and interface with an Android device.
 
+## Final Project
+
 ## Homeworks
 
 Homework 1:
