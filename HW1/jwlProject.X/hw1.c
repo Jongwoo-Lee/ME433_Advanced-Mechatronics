@@ -99,11 +99,12 @@ __builtin_enable_interrupts();
     AD1CON1bits.ADON = 1;
 
     while (1) {   // invert pin every 0.5s, set PWM duty cycle % to the pot voltage output %
+    			//pot = potentiometer
         _CP0_SET_COUNT(0); // set core timer to 0, remember it counts at half the CPU clock
         LATBbits.LATB7 = !LATBbits.LATB7; // invert a pin
 
         // wait for half a second, setting LED brightness to pot angle while waiting
-        while (_CP0_GET_COUNT() < 10000000) {
+        while (_CP0_GET_COUNT() < 2000000) {
             val = readADC();
             OC1RS = val*10;
             
@@ -119,6 +120,7 @@ __builtin_enable_interrupts();
         
 }
 
+//Read the number from pot angle
 int readADC(void) {
     int elapsed = 0;
     int finishtime = 0;
