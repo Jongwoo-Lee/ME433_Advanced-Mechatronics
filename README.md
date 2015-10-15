@@ -34,8 +34,9 @@ Made a library of alphabets for OLED display that communicates with I2C protocol
 Displayed [Hello world 1337!](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW4/oled.X/IMG_0221%20copy.jpg) on the display
 
 
+* Homework 5:
 
-Homework 5:
+Using an accelorometer, the direction and magnitude of the gravity is (shown in the OLED display)[https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW5/accel.X/IMG_0223.jpg].
 
 Homework 6:
 
