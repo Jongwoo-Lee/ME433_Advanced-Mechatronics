@@ -7,6 +7,9 @@ In this course I learned how to design, solder and debug a printed circuit board
 ## Homeworks
 
 Homework 1:
+
+Check a photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg)
+
 ![Alt text](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg?raw=true "Breadboard circuit")
 Homework 2:
 
