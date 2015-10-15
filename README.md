@@ -1,6 +1,11 @@
 # ME433_Advanced-Mechatronics
 
-In this course I learned how to design, solder and debug a printed circuit board (PCB), learn advanced digital communication protocols like SPI, I2C and USB, create physical prototypes with a laser cutter and 3d printer, and interface with an Android device.
+In this course I learned how to 
+- Design, solder and debug a printed circuit board (PCB) 
+- Communicate with advanced digital protocols like SPI, I2C and USB 
+- Create physical prototypes with a laser cutter and 3d printer
+- Design a two-wheel vehicle with SolidWorks
+- Interface with an Android device.
 
 ## Final Project
 
