@@ -6,7 +6,7 @@ In this course I learned how to design, solder and debug a printed circuit board
 
 ## Homeworks
 
-Homework 1:
+1. Homework 1:
 
    Created the breadboard circuit with two LEDs.
 
@@ -14,7 +14,7 @@ Homework 1:
 
    Photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg) with 2 LEDs!
 
-Homework 2:
+2. Homework 2:
 
 Homework 3:
 
