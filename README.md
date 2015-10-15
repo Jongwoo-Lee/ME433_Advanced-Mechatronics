@@ -8,11 +8,11 @@ In this course I learned how to design, solder and debug a printed circuit board
 
 * Homework 1:
 
-   Created the breadboard circuit with two LEDs.
+Created the breadboard circuit with two LEDs.
 
-   One LED blinks per 0.5 seconds, and the other one has brightness proportional to the value from potentiometer.
+One LED blinks per 0.5 seconds, and the other one has brightness proportional to the value from potentiometer.
 
-   Photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg) with 2 LEDs!
+Photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg) with 2 LEDs!
 
 * Homework 2:
 
