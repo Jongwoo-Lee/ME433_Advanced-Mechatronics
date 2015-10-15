@@ -14,11 +14,14 @@ One LED blinks per 0.5 seconds, and the other one has brightness proportional to
 
 Photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg) with 2 LEDs!
 
-* Homework 2:
+* Homework 2 and 3
 
-Homework 3:
+Design of printed circuit boards (PCBs) using EAGLE
 
-Homework 4:
+Photos of my [PCB](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/tree/master/HW2%263) using [mayhewlabs 3d gerber viewer](http://mayhewlabs.com/webGerber/)
+
+
+* Homework 4:
 
 Homework 5:
 
