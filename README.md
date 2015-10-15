@@ -2,6 +2,7 @@
 
 In this course I learned how to 
 - Design, solder and debug a printed circuit board (PCB) 
+- Program a Microcontroller (PIC32MX250F128B) with the provided IDE
 - Communicate with advanced digital protocols like SPI, I2C and USB 
 - Create physical prototypes with a laser cutter and 3d printer
 - Design a two-wheel vehicle with SolidWorks
