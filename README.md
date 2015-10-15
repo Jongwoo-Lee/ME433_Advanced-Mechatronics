@@ -36,7 +36,7 @@ Displayed [Hello world 1337!](https://github.com/jongwoo-Lee/ME433_Advanced-Mech
 
 * Homework 5:
 
-Using an accelorometer, the direction and magnitude of the gravity is (shown in the OLED display)[https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW5/accel.X/IMG_0223.jpg].
+Using an accelorometer, the direction and magnitude of the gravity is [shown in the OLED display](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW5/accel.X/IMG_0223.jpg).
 
 Homework 6:
 
