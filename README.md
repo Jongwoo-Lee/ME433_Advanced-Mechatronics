@@ -28,6 +28,12 @@ Photos of my [PCB](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/tr
 
 * Homework 4:
 
+Made a library of alphabets for OLED display that communicates with I2C protocol
+
+Displayed [Hello world 1337!](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW4/oled.X/IMG_0221%20copy.jpg) on the display
+
+
+
 Homework 5:
 
 Homework 6:
