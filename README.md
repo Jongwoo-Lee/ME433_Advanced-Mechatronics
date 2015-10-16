@@ -20,7 +20,7 @@ One LED blinks per 0.5 seconds, and the other one has brightness proportional to
 
 Photo of my [Breadboard](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW1/IMG_2373.jpg) with 2 LEDs!
 
-* [Homework 2 and 3](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/tree/master/HW2%263)
+* [Homework 2 and 3](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/tree/master/HW2%263):
 
 Design of printed circuit boards (PCBs) using EAGLE
 
@@ -38,7 +38,12 @@ Displayed [Hello world 1337!](https://github.com/jongwoo-Lee/ME433_Advanced-Mech
 
 Using an accelorometer, the direction and magnitude of the gravity is [shown in the OLED display](https://github.com/jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW5/accel.X/IMG_0223.jpg).
 
-Homework 6:
+* [Homework 6](https://github.com/Jongwoo-Lee/ME433_Advanced-Mechatronics/tree/master/HW6):
+
+Using the given library "Harmony", the given projects were customized onto my breadboard.
+I could make the breadboard as a gravity-based mouse, using an accelorometer. 
+Check out the [video](https://github.com/Jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW6/mouse.gif).
+
 
 Homework 7:
 
