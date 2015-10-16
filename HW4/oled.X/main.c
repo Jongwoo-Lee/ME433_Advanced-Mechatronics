@@ -85,6 +85,7 @@ int main() {
     // set up LED1 pin as a digital output
     TRISBbits.TRISB7 = 0;
 
+	//use the functions to print "Hello world 1337!" at 28,32
     int num = 1337;
     display_init();
     display_clear();
