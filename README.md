@@ -40,12 +40,13 @@ Using an accelorometer, the direction and magnitude of the gravity is [shown in 
 
 * [Homework 6](https://github.com/Jongwoo-Lee/ME433_Advanced-Mechatronics/tree/master/HW6):
 
-Using the given library "Harmony", the given projects were customized onto my breadboard.
-I could make the breadboard as a gravity-based mouse, using an accelorometer. 
-Check out the [video](https://github.com/Jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW6/mouse.gif).
+Using the given library "Harmony", the given projects (blinky LED, HID mouse) were customized onto my breadboard.
 
 
-Homework 7:
+* Homework 7:
+
+The USB mouse now uses accelorometer as an input, so the mouse moves in the direction of its tilt.
+Check out the [video](https://github.com/Jongwoo-Lee/ME433_Advanced-Mechatronics/blob/master/HW7/mouse.gif).
 
 Homework 8:
 
